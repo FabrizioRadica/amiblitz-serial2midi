@@ -1,4 +1,4 @@
-# amiblizt-serial2midi v0.0.1
+# amiblitz-serial2midi v0.0.1
 Amiblitz3 Serial to midi access
 By Fabrizio Radica - Feb 2023
 
